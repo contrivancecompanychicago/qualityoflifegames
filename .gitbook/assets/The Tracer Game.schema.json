@@ -1,0 +1,133 @@
+{
+  "id": 288030,
+  "num_rows": 1000,
+  "file_format": "csv",
+  "name": "The Tracer Game",
+  "include_header": true,
+  "append_dataset": "Chicago Trolley Authority",
+  "columns": [
+    {
+      "name": "id",
+      "null_percentage": 0,
+      "type": "Domain Name",
+      "formula": ""
+    },
+    {
+      "name": "Phage Hexamer Nano Car",
+      "null_percentage": 0,
+      "type": "Car VIN",
+      "formula": ""
+    },
+    {
+      "name": "Phage Hexamer Nano Car 1",
+      "null_percentage": 0,
+      "type": "City",
+      "formula": ""
+    },
+    {
+      "name": "Phage Hexamer Nano Car 2",
+      "null_percentage": 0,
+      "type": "Latitude",
+      "formula": ""
+    },
+    {
+      "name": "Phage Hexamer Nano Car 3",
+      "null_percentage": 0,
+      "type": "Longitude",
+      "formula": ""
+    },
+    {
+      "name": "Phage Hexamer Nano Car 4",
+      "null_percentage": 0,
+      "type": "Time Zone",
+      "formula": ""
+    },
+    {
+      "name": "Vaccine",
+      "null_percentage": 0,
+      "type": "Drug Company",
+      "formula": ""
+    },
+    {
+      "name": "Vaccine 1",
+      "null_percentage": 0,
+      "type": "Drug Name (Brand)",
+      "formula": ""
+    },
+    {
+      "name": "Pentose Phosphate Freeway",
+      "null_percentage": 0,
+      "type": "ICD10 Diagnosis Code",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box ",
+      "null_percentage": 0,
+      "type": "App Name",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 1",
+      "null_percentage": 0,
+      "type": "App Version",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 2",
+      "null_percentage": 0,
+      "type": "Dummy Image URL",
+      "minHeight": 100,
+      "maxHeight": 250,
+      "minWidth": 100,
+      "maxWidth": 250,
+      "format": "random",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 3",
+      "null_percentage": 0,
+      "type": "File Name",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 4",
+      "null_percentage": 0,
+      "type": "IP Address v4",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 5",
+      "null_percentage": 0,
+      "type": "IP Address v6",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 6",
+      "null_percentage": 0,
+      "type": "MIME Type",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 7",
+      "null_percentage": 0,
+      "type": "SHA1",
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 8",
+      "null_percentage": 0,
+      "type": "URL",
+      "includeProtocol": true,
+      "includeHost": true,
+      "includePath": true,
+      "includeQueryString": true,
+      "formula": ""
+    },
+    {
+      "name": "COSINE MUD Box 9",
+      "null_percentage": 0,
+      "type": "Username",
+      "formula": ""
+    }
+  ]
+}
