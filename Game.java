@@ -24,7 +24,7 @@ import civ.core.unit.Settler;
 import civ.core.unit.Unit;
 import civ.core.unit.Warrior;
 
-public class Game {
+public class Game extends Main {
   private Random rnd;
   private Pathfinding pf;
 
