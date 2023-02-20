@@ -14,7 +14,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import civ.core.input.KeyboardHandler;
 import civ.core.input.MouseHandler;
 
-public class Civilization extends JPanel implements Runnable {
+public class Civilization extends BaseCivilization {
   private static final long serialVersionUID = -5800474980111119057L;
   
   private JFrame f;
