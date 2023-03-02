@@ -5,7 +5,7 @@ using System.Text;
 namespace __yellowmubu
 {
     #region Lotrcharacters
-    public class Lotrcharacters
+    public class Lotrcharacters : PostmarkDotNet
     {
         #region Member Variables
         protected string _COL;
