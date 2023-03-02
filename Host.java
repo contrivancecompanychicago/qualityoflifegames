@@ -8,7 +8,7 @@ import org.tmatesoft.sqljet.core.SqlJetException;
 import org.tmatesoft.sqljet.core.SqlJetTransactionMode;
 import org.tmatesoft.sqljet.core.table.*;
 
-public class Host extends Game {
+public class Host extends Character {
 
 	// fields
 	private Virus infection;												
