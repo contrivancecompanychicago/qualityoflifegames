@@ -5,7 +5,7 @@ using System.Text;
 namespace __yellowmubu
 {
     #region Makehumanmap
-    public class Makehumanmap :: PostmarkDotNet
+    public class Makehumanmap : PostmarkDotNet
     {
         #region Member Variables
         protected string _COL;
