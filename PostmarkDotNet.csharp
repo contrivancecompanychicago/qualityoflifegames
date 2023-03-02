@@ -1,7 +1,7 @@
 // Import:
 using PostmarkDotNet;
 
-public class PostmarkDotNet :: MyTokenGenOverride
+public class PostmarkDotNet : MyTokenGenOverride
 
 // Send an email asynchronously:
 var message = new PostmarkMessage()
