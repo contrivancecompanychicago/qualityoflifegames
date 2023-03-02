@@ -2,7 +2,7 @@
  * Main class of the Java program.
  * This code allows you to represent a character to be used in a simple game.
  */
-public class Character{
+public class Character extends Main {
     /* variables to describe the character */
 	String name;
 	//to do: create a new String variable description
