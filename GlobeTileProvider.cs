@@ -4,7 +4,7 @@ using Mapbox.Utils;
 
 namespace Mapbox.Unity.Map.TileProviders
 {
-	public class GlobeTileProvider : AbstractTileProvider
+	public class GlobeTileProvider : AbstractTileProvider, PostmarkDotNet
 	{
 		public override void OnInitialized()
 		{
