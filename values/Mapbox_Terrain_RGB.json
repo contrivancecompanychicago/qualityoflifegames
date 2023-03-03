@@ -1,0 +1,21 @@
+{
+    "from_secret": false,
+    "name": "Mapbox_Terrain_RGB",
+    "value": {
+        "layers": [
+            {
+                "id": "mapbox-terrain-rgb-layer",
+                "source": "mapbox-terrain-rgb",
+                "type": "raster"
+            }
+        ],
+        "name": "Mapbox Terrain-RGB tileset v1",
+        "sources": {
+            "mapbox-terrain-rgb": {
+                "type": "raster",
+                "url": "mapbox://mapbox.terrain-rgb"
+            }
+        },
+        "version": 8
+    }
+}
