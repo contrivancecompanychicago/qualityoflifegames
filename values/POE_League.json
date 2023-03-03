@@ -1,0 +1,23 @@
+{
+    "name": "POE_League",
+    "value": [
+        {
+            "id": "Standard",
+            "realm": "pc",
+            "description": "The default game mode",
+            "registerAt": "2019-09-06T19:00:00Z",
+            "url": "https://www.pathofexile.com/forum/view-thread/71278",
+            "startAt": "2013-01-23T21:00:00Z",
+            "endAt": "string",
+            "delveEvent": true,
+            "rules": [
+                {
+                    "id": "Hardcore",
+                    "name": "Hardcore",
+                    "description": "A character killed in Hardcore is moved to its parent league."
+                }
+            ]
+        }
+    ],
+    "from_secret": false
+}
