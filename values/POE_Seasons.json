@@ -1,0 +1,122 @@
+{
+    "name": "POE_Seasons",
+    "value": [
+        {
+            "id": "Race Season One",
+            "startAt": "2013-02-20T05:47:21Z",
+            "endAt": "2013-02-20T05:47:21Z",
+            "htmlId": "race-season-one",
+            "htmlContent": "string",
+            "rewards": [
+                {
+                    "requiredPoints": {
+                        "$numberInt": "0"
+                    },
+                    "item": {
+                        "verified": true,
+                        "w": {
+                            "$numberInt": "0"
+                        },
+                        "h": {
+                            "$numberInt": "0"
+                        },
+                        "ilvl": {
+                            "$numberInt": "0"
+                        },
+                        "icon": "string",
+                        "league": "string",
+                        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                        "elder": true,
+                        "shaper": true,
+                        "fractured": true,
+                        "sockets": {
+                            "group": {
+                                "$numberInt": "0"
+                            },
+                            "sColour": "B"
+                        },
+                        "name": "string",
+                        "typeLine": "string",
+                        "identified": true,
+                        "corrupted": true,
+                        "properties": [
+                            {
+                                "name": "string",
+                                "values": [
+                                    [
+                                        "string",
+                                        {
+                                            "$numberInt": "0"
+                                        }
+                                    ]
+                                ],
+                                "displayMode": {
+                                    "$numberInt": "0"
+                                },
+                                "type": {
+                                    "$numberInt": "0"
+                                }
+                            }
+                        ],
+                        "utilityMods": [
+                            "string"
+                        ],
+                        "explicitMods": [
+                            "string"
+                        ],
+                        "craftedMods": [
+                            "string"
+                        ],
+                        "enchantMods": [
+                            "string"
+                        ],
+                        "fracturedMods": [
+                            "string"
+                        ],
+                        "flavourText": [
+                            "string"
+                        ],
+                        "descrText": "string",
+                        "secDescrText": "string",
+                        "frameType": {
+                            "$numberInt": "0"
+                        },
+                        "category": {
+                            "additionalProp1": [
+                                "string"
+                            ],
+                            "additionalProp2": [
+                                "string"
+                            ],
+                            "additionalProp3": [
+                                "string"
+                            ]
+                        },
+                        "x": {
+                            "$numberInt": "0"
+                        },
+                        "y": {
+                            "$numberInt": "0"
+                        },
+                        "inventoryId": "string",
+                        "isRelic": true,
+                        "socketetedItems": [
+                            null
+                        ],
+                        "socket": {
+                            "$numberInt": "0"
+                        },
+                        "colour": "D"
+                    },
+                    "itemOffsetX": {
+                        "$numberInt": "0"
+                    },
+                    "itemOffsetY": {
+                        "$numberInt": "0"
+                    }
+                }
+            ]
+        }
+    ],
+    "from_secret": false
+}
