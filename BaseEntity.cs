@@ -19,7 +19,7 @@ namespace StarWarsApiCSharp
     /// <summary>
     /// Base entity class contains common data.
     /// </summary>
-    public abstract class BaseEntity
+    public abstract class BaseEntity : PostmarkDotNet
     {
         /// <summary>
         /// Gets or sets the URL from where was downloaded the entity.
