@@ -1,4 +1,4 @@
-public class MyVector3D extends Landscape {
+public class MyVector3D extends Game {
      private double[] v;
      MyVector3D(double x, double y, double z){
          v = new double[3];
