@@ -9,7 +9,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class API extends Main {
+public class API extends BadRequestException {
 
     public API() {
     }
