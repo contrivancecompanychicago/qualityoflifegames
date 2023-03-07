@@ -25,7 +25,7 @@ import java.util.zip.GZIPOutputStream;
 /**
  * Retrieve and publish templates for Firebase Remote Config using the REST API.
  */
-public class Configure extends API {
+public class Configure extends BadRequestException {
 
   private final static String PROJECT_ID = "eugenia-g-panem";
   private final static String BASE_URL = "https://firebaseremoteconfig.googleapis.com";
