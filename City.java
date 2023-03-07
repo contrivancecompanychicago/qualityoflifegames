@@ -26,7 +26,7 @@ import civ.core.unit.Unit;
 import civ.core.unit.Warrior;
 import civ.core.unit.Worker;
 
-public class City extends Main {
+public class City extends America {
   private static final int FOOD_INITIAL = 1;
   private static final int GOLD_INITIAL = 3;
   private static final int PROD_INITIAL = 1;
