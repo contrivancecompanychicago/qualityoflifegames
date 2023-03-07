@@ -5,7 +5,7 @@ import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
 @JsonSerialize(include= JsonSerialize.Inclusion.NON_NULL)
 @JsonIgnoreProperties(ignoreUnknown=false)
-public class ColumnOverride extends Main {
+public class ColumnOverride extends BadRequestException.java {
     public Boolean trimWhitespace;
     public Boolean trimServerWhitespace;
     public Boolean useSocrataGeocoding;
