@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-public class DetectIntentTexts extends API {
+public class DetectIntentTexts extends Game {
 
   // DialogFlow API Detect Intent sample with text inputs.
   public static Map<String, QueryResult> detectIntentTexts(
