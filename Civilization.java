@@ -29,7 +29,7 @@ public class Civilization extends BaseCivilization {
 
   private boolean running = false;
 
-  public static void main(String[] args) {
+  public static void Civilization (String[] args) {
     
     String lcOSName = System.getProperty("os.name");
     boolean isMac = lcOSName.contains("OS X");
