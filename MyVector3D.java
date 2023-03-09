@@ -1,4 +1,4 @@
-public class MyVector3D extends Game {
+public class MyVector3D extends VectorFileDecoderTest {
      private double[] v;
      MyVector3D(double x, double y, double z){
          v = new double[3];
