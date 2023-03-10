@@ -1,7 +1,7 @@
 /**
  * This code allows you to represent a character to be used in a simple game.
  */
-public class CharacterSecretWeapon extends CharacterPlayState { 
+public class CharacterHealth extends CharacterPlayState { 
  /* Constant to define the maximum health value */
 	public static final int MAX_HEALTH = 10;
 	
