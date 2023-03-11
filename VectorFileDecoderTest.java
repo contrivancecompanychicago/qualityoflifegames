@@ -39,7 +39,7 @@ import org.locationtech.jts.geom.LinearRing;
 import org.locationtech.jts.geom.Point;
 import org.locationtech.jts.geom.Polygon;
 
-public class VectorTileDecoderTest extends Game {
+public class VectorTileDecoderTest extends slippytest {
 
     private GeometryFactory gf = new GeometryFactory();
 
