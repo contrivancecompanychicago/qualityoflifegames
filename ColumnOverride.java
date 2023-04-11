@@ -1,4 +1,5 @@
 package com.socrata.datasync.config.controlfile;
+package com.qualityoflifegames.Main;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
