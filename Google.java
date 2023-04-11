@@ -1,3 +1,7 @@
+public class Google implements Main{
+
+}
+
 buildscript {
   repositories {
     // Make sure that you have the following two repositories
