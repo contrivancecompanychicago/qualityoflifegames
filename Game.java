@@ -1,5 +1,6 @@
-package civ.core;
+package com.qualityoflifegames.Main;
 
+import com.qualityoflifegames.Public_Goods_Game;
 import static civ.core.instance.IData.HEX_RADIUS;
 import static civ.core.instance.IData.H_HEXES;
 import static civ.core.instance.IData.W_HEXES;
