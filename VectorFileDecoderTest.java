@@ -16,8 +16,9 @@
  *  specific language governing permissions and limitations
  *  under the License.
  ****************************************************************/
-package no.ecc.vectortile;
+package com.qualityoflifegames.Main;
 
+import com.qualityoflifegames.slippytest;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
