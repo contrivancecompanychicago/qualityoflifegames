@@ -9,7 +9,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * 
  * @author Joseph Lenton
  */
-public class ControllerWorld  extends World
+public class ControllerWorld  extends KrebsvilleWorld
 {
     private static final int REDEFINE_X = 400;
     private static final int REDEFINE_Y = 290;
