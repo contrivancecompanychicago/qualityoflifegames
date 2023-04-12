@@ -16,7 +16,7 @@ public abstract class KrebsvilleWorld extends Main {
    public void setBackground(String b) {background = b;}
    public string getBackground() {return background;}
   
-   public int getdWidth() {return width:}
+   public int getWidth() {return width:}
    public int getHeight() {return height;}
    public int getCellSize() {return size;}
     
