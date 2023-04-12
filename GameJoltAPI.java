@@ -34,7 +34,7 @@ import org.gamejolt.Trophy.Achieved;
  * @version 0.99
  * @author Ashley Gwinnell
  */
-public class GameJoltAPI extends DetectIntextTexts
+public interface GameJoltAPIIF extends DetectIntextTexts
 {
 	private final String protocol = new String("http://");
 	//private final String api_root = new String("staging.gamejolt.com/api/game/");
