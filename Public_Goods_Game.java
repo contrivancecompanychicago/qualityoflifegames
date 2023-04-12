@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Rodrigo
  */
-public class Public_Goods_Game extends StashController {
+public class Public_Goods_Game extends Game {
 
     /**
      * @param args the command line arguments
