@@ -1,6 +1,6 @@
 package com.qualityoflifegames.Main;
  
-import com.qualityoflifegames.Dexcom
+import com.qualityoflifegames.Dexcom;
 import java.awt.*;
 import java.util.ArrayList;
 import java.awt.geom.*;
