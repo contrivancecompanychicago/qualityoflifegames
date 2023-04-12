@@ -46,7 +46,7 @@ import java.util.HashSet;
  * 
  * @author Joseph Lenton
  */
-public class GamePad
+public interface GamePadIF extends Main
 {
     private static void loadLib( File klassFile, ClassLoader cl, Method defineClass )
             throws Exception
