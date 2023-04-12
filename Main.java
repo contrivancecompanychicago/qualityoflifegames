@@ -2,6 +2,7 @@ package com.qualityoflifegames;
 
 import com.qualityoflifegames.Google;
 import com.qualityoflifegames.Landscape;
+import com.qualityoflifegames.America;
 import com.qualityoflifegames.Game;
 
 
