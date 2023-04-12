@@ -9,7 +9,7 @@ import org.tmatesoft.sqljet.core.SqlJetTransactionMode;
 import org.tmatesoft.sqljet.core.table.*;
 
 
-public class HostPopulation extends Character {
+public class HostPopulation extends Host {
 	private Simulation sim;
 	private Parameters params;
 	private Phenotype urImmunity;
