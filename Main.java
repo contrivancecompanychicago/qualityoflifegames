@@ -4,6 +4,7 @@ import com.qualityoflifegames.Google;
 import com.qualityoflifegames.Landscape;
 import com.qualityoflifegames.America;
 import com.qualityoflifegames.Game;
+import com.qualityoflifegames.GamePad;
 import com.qualityoflifegames.FareBotApplication;
 import com.qualityoflifegames.Dexcom;
 import com.qualityoflifegames.GamejoltAPI;
