@@ -1,2 +1,2 @@
-public class KrebsvilleWorld {
+public class KrebsvilleWorld extends Main {
 }
