@@ -5,7 +5,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * 
  * @author Joseph Lenton
  */
-public abstract class ControllerActor  extends Actor
+public abstract class ControllerActor  extends Character
 {
     private final GamePad controller;
     
