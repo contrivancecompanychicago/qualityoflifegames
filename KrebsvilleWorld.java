@@ -1,2 +1,3 @@
-public class KrebsvilleWorld extends Main {
-}
+public abstract class KrebsvilleWorld extends Main {
+  
+  }
