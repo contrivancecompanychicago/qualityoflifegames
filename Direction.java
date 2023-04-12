@@ -7,7 +7,7 @@
  * 
  * @author Joseph Lenton
  */
-public class Direction  
+public class Direction extends GamePad 
 {
     private final int angle;
     private final float strength;
