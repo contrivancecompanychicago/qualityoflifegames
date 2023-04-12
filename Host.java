@@ -1,4 +1,4 @@
-package antigen;
+package com.qualityoflifegames.main;
 /* A human individual that harbors viruses and immunity */
 
 import java.util.*;
