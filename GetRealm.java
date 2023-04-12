@@ -22,7 +22,7 @@ import com.google.cloud.gaming.v1.Realm;
 import com.google.cloud.gaming.v1.RealmsServiceClient;
 import java.io.IOException;
 
-public class GetRealm extends StashController {
+public class GetRealm extends GamejoltAPI {
   public static void getRealm(String projectId, String regionId, String realmId)
       throws IOException {
     // String projectId = "your-project-id";
