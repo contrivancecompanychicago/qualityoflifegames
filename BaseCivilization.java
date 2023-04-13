@@ -10,7 +10,7 @@ import civ.core.instance.IUnit.UnitEnum;
 import civ.core.map.cities.City;
 import civ.core.unit.Unit;
 
-public class BaseCivilization extends Main {
+public class BaseCivilization extends America {
   private final String nameSingular;
   private final String namePlural;
 
