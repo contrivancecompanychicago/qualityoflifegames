@@ -10,6 +10,7 @@ import com.qualityoflifegames.Game;
 import com.qualityoflifegames.GamePad;
 import com.qualityoflifegames.FareBotApplication;
 import com.qualityoflifegames.Dexcom;
+import com.qualityoflifegames.UnityPlayerActivity;
 import com.qualityoflifegames.GamejoltAPI;
 
 
