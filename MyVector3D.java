@@ -1,3 +1,6 @@
+import java.lang.Math;
+
+
 public class MyVector3D extends slippytest {
      private double[] v;
      MyVector3D(double x, double y, double z){
