@@ -1,3 +1,5 @@
+import java.lang.Main;
+
 /**
  * Main class of the Java program.
  * This code allows you to represent a character to be used in a simple game.
