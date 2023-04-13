@@ -1,5 +1,6 @@
 package com.qualityoflifegames;
 
+import com.qualityoflifegames.Greenfoot;
 import com.qualityoflifegames.Google;
 import com.qualityoflifegames.KrebsvilleWorld;
 import com.qualityoflifegames.Landscape;
