@@ -1,5 +1,6 @@
 package com.qualityoflifegames;
 
+import java.lang;
 import com.qualityoflifegames.Greenfoot;
 import com.qualityoflifegames.Google;
 import com.qualityoflifegames.KrebsvilleWorld;
