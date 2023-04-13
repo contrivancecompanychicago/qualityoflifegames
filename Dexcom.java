@@ -1,8 +1,11 @@
+OverrideDexcom.java:
+package com.contrivancecompanychicago.dexcom;
+import com.unity3d.player.UnityPlayerActivity;
 import java.net.*;
 import java.net.http.*;
 import java.util.*;
 
-public class Dexcom extends Game {
+public class OverrideDexcom extends UnityPlayerActivity {
   public static void main(String[] args) throws Exception {
     var httpClient = HttpClient.newBuilder().build();
 
