@@ -1,3 +1,5 @@
+import greenfoot.*;
+
 public abstract class KrebsvilleWorld extends Main {
   
   int worldWidth number;
