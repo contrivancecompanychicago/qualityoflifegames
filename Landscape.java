@@ -4,6 +4,7 @@ package civ.core.map.terrain;
 
 import com.unity3d.player.UnityPlayerActivity;
 import java.awt.Color;
+import java.lang.Object;
 
 /**
  * Enum that contains the data on the base yields for the landscape
