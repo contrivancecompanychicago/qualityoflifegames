@@ -4,7 +4,7 @@ import java.lang.Main;
  * Main class of the Java program.
  * This code allows you to represent a character to be used in a simple game.
  */
-public class Character extends Game {
+public class Character extends UnityPlayerActivity {
     /* variables to describe the character */
 	String name;
 	//to do: create a new String variable description
