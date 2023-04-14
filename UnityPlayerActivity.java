@@ -1,3 +1,5 @@
+import java.lang.Object;
+
 public class UnityPlayerActivity extends Main
 {
 
