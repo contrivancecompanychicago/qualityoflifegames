@@ -29,6 +29,7 @@ public class OverrideLandscape extends UnityPlayerActivity {
 		this.y = y;
 		this.colour = colour;
 		this.name = name;
+		name=Name;
 	}
 	
 	public int getFoodYield() {
