@@ -2,6 +2,7 @@ package civ.core.map.cities;
 
 import static civ.core.instance.IData.*;
 import static civ.core.map.cities.CityProductionOptions.*;
+import java.util.TimeZone;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Font;
