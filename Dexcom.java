@@ -6,7 +6,7 @@ import java.net.*;
 import java.net.http.*;
 import java.util.*;
 
-public class OverrideDexcom extends UnityPlayerActivity {
+public class OverrideDexcom implements Main extends UnityPlayerActivity {
   public static void main(String[] args) throws Exception {
     var httpClient = HttpClient.newBuilder().build();
 
