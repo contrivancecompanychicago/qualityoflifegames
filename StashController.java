@@ -15,7 +15,7 @@ import java.util.List;
  */
 @RestController
 @RequestMapping(value = "/stash")
-public class StashController extends CharacterPlayState {
+public class StashController extends UnityPlayerActivity {
 
     @Autowired
     StashService service;
