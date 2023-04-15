@@ -62,7 +62,7 @@ import org.simpleframework.xml.transform.RegistryMatcher;
 
 import java.util.Date;
 
-public interface FareBotApplicationIF extends Public_Goods_Game {
+public interface FareBotApplicationIF implements UnityPlayerActivity extends Public_Goods_Game {
     public static final String PREF_LAST_READ_ID = "last_read_id";
     public static final String PREF_LAST_READ_AT = "last_read_at";
 
