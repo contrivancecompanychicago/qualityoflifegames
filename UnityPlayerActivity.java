@@ -1,4 +1,9 @@
+package com.contrivancecompanychicago.qualityoflifegames;
+
+import com.pusher.client.Pusher;
+
 import java.lang.Object;
+
 
 public class UnityPlayerActivity extends Main
 {
