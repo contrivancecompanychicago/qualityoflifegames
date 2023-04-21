@@ -1,6 +1,7 @@
 package com.qualityoflifegames;
 
 import java.lang;
+import com.qualityoflifegames.Auth0;
 import com.qualityoflifegames.Greenfoot;
 import com.qualityoflifegames.Google;
 import com.qualityoflifegames.KrebsvilleWorld;
