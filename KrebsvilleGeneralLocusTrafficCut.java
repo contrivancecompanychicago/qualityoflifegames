@@ -3,7 +3,7 @@ import org.xml.sax.InputSource;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
 
-public class KrebsvilleGeneralLocusTrafficCUT {
+public class KrebsvilleGeneralLocusTrafficCUT extends KrebsvilleWorld {
 
     public static void main(String[] args) throws Exception {
 
