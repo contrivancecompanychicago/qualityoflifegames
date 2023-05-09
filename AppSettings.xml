@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BridgePackage>
+  <App Name="Application1" Version="1.0" GUID="APD107A5C66D304C26A9343B7F738E214D7E75094288C0000026023000004288C000000100001000000000000000000000000000000000000000000000000000000000000000007F" Description="" FullApp="True" DataPackage="True" BridgeVersionCreated="38.56" BridgeVersionChanged="" ObjectDateCreated="2023-05-09T12:10:14" ObjectDateChanged="" ExportFormat="Custom" DistributionMode="Standard" AuthorID="4288C000">
+    <AppObjects>
+      <Object Type="SG" GUID="SG857E86CC3FAC4AD182D353D8DEFFF6007E75094288C0000026023000004288C00000010000100000000000000000000000000000000000000000000000000000000000000000E6" Name="Krebsville General Locus Traffic CUT" AppInitialSignature="4288C00000010000" ObjectInitialSignature="4288C00000010000" ObjectDateAdded="" BridgeVersionCreated="" BridgeVersionChanged="" ObjectDateCreated="2023-05-09T12:06:03" ObjectDateChanged="" DefaultImportAction="NEW" File="Krebsville_General_Locus_Traffic_CUT_2023-May-09_1210.xml" />
+    </AppObjects>
+  </App>
+</BridgePackage>
