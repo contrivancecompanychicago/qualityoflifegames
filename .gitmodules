@@ -1,0 +1,30 @@
+[submodule "server-cloud/TranceWorld3D"]
+	path = server-cloud/TranceWorld3D
+	url = https://github.com/contrivancecompanychicago/TranceWorld3D.git
+[submodule "server-cloud/city-of-krebsville-ai-town"]
+	path = server-cloud/city-of-krebsville-ai-town
+	url = https://github.com/contrivancecompanychicago/city-of-krebsville-ai-town.git
+[submodule "server-cloud/dovichousesimgame"]
+	path = server-cloud/dovichousesimgame
+	url = https://github.com/contrivancecompanychicago/dovichousesimgame.git
+[submodule "server-cloud/publicnuisancecity"]
+	path = server-cloud/publicnuisancecity
+	url = https://github.com/contrivancecompanychicago/publicnuisancecity.git
+[submodule "server-cloud/lets-make-a-meal-game"]
+	path = server-cloud/lets-make-a-meal-game
+	url = https://github.com/contrivancecompanychicago/lets-make-a-meal-game.git
+[submodule "server-cloud/the3PatientsatMontrosePointHospitalGame"]
+	path = server-cloud/the3PatientsatMontrosePointHospitalGame
+	url = https://github.com/contrivancecompanychicago/the3PatientsatMontrosePointHospitalGame.git
+[submodule "server-cloud/krebsvillecyclings"]
+	path = server-cloud/krebsvillecyclings
+	url = https://github.com/contrivancecompanychicago/krebsvillecyclings.git
+[submodule "server-cloud/QOLMaps-vector-datasource"]
+	path = server-cloud/QOLMaps-vector-datasource
+	url = https://github.com/contrivancecompanychicago/QOLMaps-vector-datasource.git
+[submodule "server-cloud/COSINE-Game-Server"]
+	path = server-cloud/COSINE-Game-Server
+	url = https://github.com/contrivancecompanychicago/COSINE-Game-Server.git
+[submodule "server-cloud/TRANCELifeBDO"]
+	path = server-cloud/TRANCELifeBDO
+	url = https://github.com/contrivancecompanychicago/TRANCELifeBDO.git
