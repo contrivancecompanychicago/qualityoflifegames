@@ -1,0 +1,56 @@
+{
+  "schema_version": "qol-mud-stage0",
+  "games": [
+    {
+      "id": "krebsville-unequal-treatment-pt1",
+      "title": "Krebsville Nights: Unequal Treatment Part 1",
+      "status": "stage0a-playable",
+      "genre": "medical-noir MUD",
+      "source_repo": "contrivancecompanychicago/krebsville_unequal_treatment_pt1",
+      "start_room": "MPH-000",
+      "zone": 0
+    },
+    {
+      "id": "montrose-point-hospital",
+      "title": "Montrose Point Hospital Simulation",
+      "status": "adapter-planned",
+      "submodule": "server-cloud/the3PatientsatMontrosePointHospitalGame"
+    },
+    {
+      "id": "krebsville-cyclings",
+      "title": "Krebsville Cyclings",
+      "status": "adapter-planned",
+      "submodule": "server-cloud/krebsvillecyclings"
+    },
+    {
+      "id": "lets-make-a-meal",
+      "title": "Let's Make a Meal",
+      "status": "adapter-planned",
+      "submodule": "server-cloud/lets-make-a-meal-game"
+    },
+    {
+      "id": "public-nuisance-city",
+      "title": "Public Nuisance City",
+      "status": "adapter-planned",
+      "submodule": "server-cloud/publicnuisancecity"
+    },
+    {
+      "id": "dovic-house-sim",
+      "title": "DOVIC House Simulation",
+      "status": "adapter-planned",
+      "submodule": "server-cloud/dovichousesimgame"
+    },
+    {
+      "id": "trance-world",
+      "title": "TranceWorld3D",
+      "status": "adapter-planned",
+      "submodule": "server-cloud/TranceWorld3D"
+    },
+    {
+      "id": "public-goods",
+      "title": "Public Goods Game",
+      "status": "adapter-planned",
+      "legacy_file": "Public_Goods_Game.java"
+    }
+  ]
+}
